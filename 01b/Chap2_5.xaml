@@ -28,10 +28,10 @@ d:DesignHeight="600" d:DesignWidth="825"
                     
                 </TextBlock>
 
-                <TextBlock Style="{StaticResource BodyTextBlockStyle}"
+                <TextBlock Style="{StaticResource Sub-subtitleBlockStyle}"
                            Text=" - 오픈소스 컴플라이언스 "/>
                 <TextBlock Style="{StaticResource BodyTextBlockStyle}"
-                           Text="   : 기업이나 조직이 오픈소스SW를 적법하고 효과적으로 활용하기 위해 따라야하는 정책, 절차 및 관행  "/>
+                           Text="  :기업이나 조직이 오픈소스SW를 적법하고 효과적으로 활용하기 위해 따라야하는 정책, 절차 및 관행  "/>
                 <TextBlock>
                     
                 </TextBlock>
@@ -50,7 +50,7 @@ d:DesignHeight="600" d:DesignWidth="825"
                 </TextBlock>
 
                 <TextBlock Style="{StaticResource Sub-subtitleBlockStyle}"
-                           Text="오픈소스 컴플라이언스 위험 유형"/>
+                           Text=" - 오픈소스 컴플라이언스 위험 유형"/>
                 <TextBlock>
                     
                 </TextBlock>

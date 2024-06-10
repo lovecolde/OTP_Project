@@ -28,7 +28,7 @@ d:DesignHeight="600" d:DesignWidth="825"
 
                 <TextBlock TextWrapping="Wrap"
                        FontSize="16" Margin="0,0,0,5">
-                    <Run Text="소프트웨어의 사용, 수정, 복제, 배포 등을 규제하는 규약아로 이를 통해 소프트웨어 오픈소스로 공개하는 개발자들이 사용한다. 
+                    <Run Text="소프트웨어의 사용, 수정, 복제, 배포 등을 규제하는 규약으로 이를 통해 소프트웨어 오픈소스로 공개하는 개발자들이 사용한다. 
                          "/><LineBreak/>
                     <Run Text="오픈소스 라이선스는 소프트웨어가 오픈소스로서 어떻게 사용될 수 있는지를 정의한다. 
                          이를 통해 사용자에게 어떤 권리와 책임이 있는지 명확히 한다."/></TextBlock>
@@ -75,6 +75,10 @@ d:DesignHeight="600" d:DesignWidth="825"
                 <TextBlock Style="{StaticResource BodyTextBlockStyle}"
                            Text="비슷한 목적과 정책을 공유하는 라이선스들을 그룹화하여 분류하고 이해하는데 도움을 준다. "/>
                 <TextBlock/>
+                
+                <TextBlock Style="{StaticResource BodyTextBlockStyle}"
+                           Text=" * 패밀리 : 오픈소스 소프트웨어 커뮤니티에서 라이선스 선택을 쉽게 만들어 라이선스 사용 조건을 이해하는데 도움을 준다.."/>
+                <TextBlock/>
                 <TextBlock Style="{StaticResource Sub-subtitleBlockStyle}"
                            Text="GNU 패밀리 ?"/>
                 <TextBlock Style="{StaticResource BodyTextBlockStyle}"
@@ -87,9 +91,7 @@ d:DesignHeight="600" d:DesignWidth="825"
                            Text="BSD 라이선스 패밀리 ?"/>
                 <TextBlock Style="{StaticResource BodyTextBlockStyle}"
                            Text="BSD라이선스와 MIT라이선스 등을 포함한다."/>
-                <TextBlock Style="{StaticResource BodyTextBlockStyle}"
-                           Text=" * 패밀리 : 오픈소스 소프트웨어 커뮤니티에서 라이선스 선택을 쉽게 만들어 ㅅ라이선스 사용 조건을 이해하는데 도움을 준다.."/>
-
+ 
 
 
 

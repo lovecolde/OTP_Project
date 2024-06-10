@@ -32,8 +32,8 @@ namespace _01b
 
         private void NextButton_Click(object sender, RoutedEventArgs e)
         {
-            //Chap2_5 newPage = new Chap2_5();
-            //NavigationService.Navigate(newPage);
+            Chap3 newPage = new Chap3();
+            NavigationService.Navigate(newPage);
         }
     }
 }

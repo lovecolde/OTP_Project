@@ -27,7 +27,7 @@ d:DesignHeight="600" d:DesignWidth="825"
                            Text="제공 받는 상대방이 언제든지 확인할 수 있는 방법을 통해 라이선스 사본, 소스코드 등 제공"/>
 
                 <Image Source="Images/OTP_공개와고지방법2.png" 
-                        Width="300" Height="120" 
+                        Width="310" Height="150" 
                        HorizontalAlignment="Center"
                        Stretch="Uniform" />
 

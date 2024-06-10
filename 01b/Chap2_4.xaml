@@ -35,7 +35,7 @@ d:DesignHeight="600" d:DesignWidth="825"
                            Text=" - 다중 라이선스 정책은 여러 개의 라이선스 중 사용자가 라이선스를 선택하여 사용할 수 있는
                            라이선스 정책"/>
                 <TextBlock Style="{StaticResource BodyTextBlockStyle}"
-                           Text=" - 따라서 귀사의 오픈소스 사용 정책과 오픈소스 라이선스의 의무 준수 사항을 고려하여 귀사에게 
+                           Text=" - 따라서 오픈소스 사용 정책과 오픈소스 라이선스의 의무 준수 사항을 고려하여 귀사에게 
                            유리한 라이선스 선택 필요"/>
                 <TextBlock>
                     
